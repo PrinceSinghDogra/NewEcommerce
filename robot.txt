@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://princesinghdogra.github.io/NewEcommerce/sitemap.xml
